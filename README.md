@@ -16,3 +16,4 @@
   <p>Esta se usa cuando se va a realizar un despliegue de una versión del código en el servidor de producción se abre una rama de este tipo. Una vez abierta se hacen los cambios de configuración relativos al entorno de producción y se sube el código del proyecto al servidor. Cuando el despliegue se completa de forma satisfactoria, la rama release se vuelca a la rama master y se añade una etiqueta con el número de versión correspondiente.</p>
 </ul>
 # FelipeMG
+# JoHaNSR
