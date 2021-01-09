@@ -1,0 +1,15 @@
+//Actulizacion mas reciente de npm
+*npm install -g npm@lastest
+
+//Configuracion de usuario
+*Name
+npm set  init.author.name ¨Nombre¨
+*Email 
+npm set init.author.email ¨johan31156stivenramire@gmail.com¨
+*Licence
+npm set init.licence ¨MIT¨
+
+//Comando para instalar dependencias
+*npm install (Nombre del paquete) --save ---> npm 1 [Name] -S//producion
+*npm install (Nombre del paquete) --save-dev ---> npm 1 [Name] -D //desarrollo
+
