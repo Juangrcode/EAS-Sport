@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/react,python,windows,linux,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=react,python,windows,linux,macos
+# Created by https://www.toptal.com/developers/gitignore/api/react,python,windows,macos,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,python,windows,macos,linux
 
 ### Linux ###
 *~
@@ -227,4 +227,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/react,python,windows,linux,macos
+=======
+# End of https://www.toptal.com/developers/gitignore/api/react,python,windows,macos,linux
+>>>>>>> 83f38eedd262d3374bf8ec6344f53032631065a2

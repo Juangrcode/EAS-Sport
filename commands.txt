@@ -1,0 +1,16 @@
+# Actualizacion mas reciente de npm
+npm install -g npm@lastest
+
+# Environments config
+  -Name
+    npm set init.author.name "Juan Gonzalez"
+  -Email
+    npm set init.author.email "j3045771061@gmail.com"
+  -License
+    npm set init.license "MIT"
+
+# Intalar paquetes
+  -Production
+    npm install [name] --save      --->  npm i [name] -S
+  -Development
+    npm install [name] --save-dev  --->  npm i [name] -D
