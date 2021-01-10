@@ -227,8 +227,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-<<<<<<< HEAD
-# End of https://www.toptal.com/developers/gitignore/api/react,python,windows,linux,macos
-=======
 # End of https://www.toptal.com/developers/gitignore/api/react,python,windows,macos,linux
->>>>>>> 83f38eedd262d3374bf8ec6344f53032631065a2
