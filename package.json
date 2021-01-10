@@ -1,0 +1,21 @@
+{
+  "name": "EAS-Sport",
+  "version": "0.0.1",
+  "description": "We will to learn to programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juangr1803/EAS-Sport.git"
+  },
+  "keywords": [],
+  "author": "Juan Gonzalez <j3045771061@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juangr1803/EAS-Sport/issues"
+  },
+  "homepage": "https://github.com/Juangr1803/EAS-Sport#readme",
+  "dependencies": {}
+}
