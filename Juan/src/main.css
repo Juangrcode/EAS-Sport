@@ -1,4 +1,92 @@
 body {
+  background-color: white;
+  color: white;
+  margin: 0;
+  font-family: FFDINforPuma, -apple-system, system-ui, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+/* -------------------Header--------------------- */
+
+.header {
+  width: 100%;
+  height: 60px;
   background-color: black;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  height: inherit;
+}
+
+.header__container--item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.col-1 {
+  width: 50%;
+}
+
+.col-2 {
+  width: 35%;
+}
+
+.header-item__logo {
+  height: 50px;
+}
+
+.header__container--item nav {
+  width: 100%;
+}
+.header__container--item ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.header__container--item li {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  cursor: pointer;
+  padding: 0.2em 0;
+}
+.header__container--item li:hover {
+  cursor: pointer;
+  border-bottom: 2px solid red;
+}
+
+.header-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.header-item img {
+  width: 22px;
+  height: 22px;
+  padding: 0.625rem;
+  cursor: pointer;
+}
+
+.header-item__icon-search {
+  position: absolute;
+  top: 10px;
+}
+
+.header-item input {
+  width: 100%;
+  height: 40px;
+  background-color: #000000;
+  border: 1px solid #efefef5e;
+  padding-left: 40px;
+  outline: none;
   color: white;
 }
