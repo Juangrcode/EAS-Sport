@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: FFDINforPuma, -apple-system, system-ui, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #222;
+  text-align: left;
+  background-color: #fff;
+}
+header {
+  color: #ffffff;
+}
+ul {
+  list-style: none;
+}
+ul {
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+}
