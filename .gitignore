@@ -3,10 +3,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,python,windows,macos,linux
 
 # Static
-*.png
-*.jpg
-*.gif
-*.jpeg
+# *.png
+# *.jpg
+# *.gif
+# *.jpeg
 
 
 ### Linux ###
