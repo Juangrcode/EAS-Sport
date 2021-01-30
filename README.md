@@ -18,7 +18,7 @@
 </ul>
 
 <h1>Challenger 2</h1>
-<p>Con conocimientos previos de HTML y CSS copiaremos la maquetacion, diseño de la pagina [pugstagram](https://pugstagram.co/) </p>
+<p>Con conocimientos previos de HTML y CSS copiaremos la maquetacion, diseño de la pagina https://pugstagram.co/ </p>]
 
 <h2>FelipeMG</h2>
 <br/>
