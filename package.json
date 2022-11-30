@@ -4,7 +4,7 @@
   "description": "We will to learn to programming",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "live-server"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "url": "https://github.com/Juangr1803/EAS-Sport/issues"
   },
   "homepage": "https://github.com/Juangr1803/EAS-Sport#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }

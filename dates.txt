@@ -1,0 +1,78 @@
+# Course Prework y npm completed
+ -sabado 16 de enero 
+
+# Header completed
+ -sabado 23 de enero 
+
+# Course HTML and CSS completed
+ -sabado 30 de enero   class 58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": true,
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  "extensions.ignoreRecommendations": true,
+  "editor.autoClosingQuotes": "languageDefined",
+  "editor.autoIndent": "full",
+  "editor.colorDecorators": true,
+  "editor.columnSelection": false,
+  "editor.cursorBlinking": "blink",
+  "editor.dragAndDrop": true,
+  "editor.fastScrollSensitivity": 8,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 15,
+  "editor.lightbulb.enabled": true,
+  "editor.links": true,
+  "editor.matchBrackets": "always",
+  "editor.occurrencesHighlight": true,
+  "editor.tabCompletion": "on",
+  "editor.tokenColorCustomizations": {},
+  "editor.unusualLineTerminators": "prompt",
+  "editor.useTabStops": true,
+  "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "editor.smoothScrolling": true,
+  "editor.snippetSuggestions": "none",
+  "editor.autoClosingBrackets": "languageDefined",
+  "editor.codeLens": true,
+  "files.autoSave": "off",
+  "workbench.iconTheme": "helium-icon-theme",
+  "synthwave84.brightness": "1",
+  "synthwave84.disableGlow": false,
+  "vscode_custom_css.imports": [
+    "C:\\Users\\USUARIO\\Documents\\Documents\\synthwave84.css"
+  ],
+  "workbench.sideBar.location": "right",
+  "editor.largeFileOptimizations": false,
+  "git.ignoreMissingGitWarning": true,
+  "workbench.colorTheme": "SynthWave '84",
+  "prettier.documentSelectors": ["**/*.abc"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}

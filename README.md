@@ -1,6 +1,7 @@
 # EAS-Sport
 
 ## Ramas GIT
+
 <ul>
 <li>Master</li>
   <p>Cuando se inicia un repositorio Git, ser parte de la rama  <strong> master </strong> sobre la que no se trabaja directamente. En ella se mantiene únicamente código estable que se usa para desplegar en producción.</p>
@@ -15,5 +16,12 @@
 <li>Realese</li>
   <p>Esta se usa cuando se va a realizar un despliegue de una versión del código en el servidor de producción se abre una rama de este tipo. Una vez abierta se hacen los cambios de configuración relativos al entorno de producción y se sube el código del proyecto al servidor. Cuando el despliegue se completa de forma satisfactoria, la rama release se vuelca a la rama master y se añade una etiqueta con el número de versión correspondiente.</p>
 </ul>
-# FelipeMG
-# JoHaNSR
+
+<h1>Challenger 2</h1>
+<p>Con conocimientos previos de HTML y CSS copiaremos la maquetacion, diseño de la pagina https://pugstagram.co/ </p>]
+
+<h2>FelipeMG</h2>
+<br/>
+<h2>JoHaNSR</h2>
+<br/>
+<h2>Juangr1803</h2>
